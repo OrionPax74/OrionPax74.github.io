@@ -1,0 +1,140 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  h1 {
+    font-family: Calibri;
+    font-size: 48px;
+    color: blue;
+  }
+  
+  h2 {
+    color: green;
+    font-style: oblique;
+    font-size: 36px;
+  }
+  
+  .container {
+    border: 2px solid green;
+    margin: 20px 20px;
+    padding: 20px;
+  }
+  
+  .color-panel {
+      display: inline-block;
+      width: 150px;
+      height: 100px;
+      margin: 10px 5px;
+      text-align: center;
+    }
+  
+    .color-label, .color-blurb {
+      font-size: 16px;
+      font-weight: bold;
+    }
+    
+    .red {
+      background-color: red;
+    }
+    
+    .orange {
+      background-color: orange;
+    }
+    
+    .yellow {
+      background-color: yellow;
+    }
+    
+    .green {
+      background-color: green;
+    }
+    
+    .blue {
+      background-color: blue;
+      color: white;
+    }
+    
+    .indigo {
+      background-color: indigo;
+      color: white;
+    }
+    
+    .violet {
+      background-color: #9400d3;
+    }
+    
+    .gray {
+      background-color: gray;
+    }
+    
+    .black {
+      background-color: black;
+      color: white;
+    }
+  
+    .font-container {
+      display: inline-block;
+      width: 45%;
+      height: 100px;
+      margin: 10px;
+      text-align: left;
+    }
+    
+    .font-label {
+      font-size: 20px;
+      text-decoration: underline;
+    }
+  
+    .limelight {
+      font-family: 'limelight', sans-serif;
+    }
+  
+    .ubuntu {
+      font-family: 'Ubuntu', sans-serif;
+      }
+  
+    .nanum-brush-script {
+      font-family: 'Nanum Brush Script', cursive;
+    }
+  
+    .oxygen-mono {
+      font-family: 'Oxygen Mono', monospace;
+    }
+  
+    .bold {
+      font-weight: bold;
+    }
+  
+    .italic {
+      font-style: italic;
+    }
+
+    .text-panel {
+        font-family: 'Ubuntu';
+        font-size: 18px;
+        color:black;
+    }
+
+    .text-panel h1 {
+        font-family: 'Limelight';
+        font-size: 36px;
+        font-weight: bold;
+        color: black;
+    }
+
+    .text-panel h2 {
+        font-family: 'Ubuntu';
+        font-size: 24px;
+        font-style: normal;
+        color: black;
+    }
+
+    .text-panel h3 {
+        font-family: 'Nanum Brush Script', cursive;
+        font-size: 18px;
+    }
+
+    .text-panel p {
+        font-family: 'Oxygen Mono', monospace;
+        font-size: 14px;
+    }
